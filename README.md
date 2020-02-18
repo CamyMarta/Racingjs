@@ -24,5 +24,5 @@ in the localhost
 ### exemple
 
 ```
-localhost/ex
+localhost/Racingjs/exercices/ex_01.html
 ``
