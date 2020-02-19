@@ -25,4 +25,4 @@ in the localhost
 
 ```
 localhost/Racingjs/exercices/ex_01.html
-``
+```
